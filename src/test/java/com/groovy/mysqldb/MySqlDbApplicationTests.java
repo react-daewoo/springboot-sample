@@ -1,13 +1,13 @@
-package com.example.sample;
+package com.groovy.mysqldb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SampleApplicationTests {
+class MysqlDbApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
